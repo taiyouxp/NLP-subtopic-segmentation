@@ -1,10 +1,8 @@
-<!-- markdownlint disable-->
-# Topic Segmentation and Labeling with spaCy / Segmentação topical e Rotulação com spaCy
+# Subtopic Segmentation and Labeling with spaCy / Segmentação Subtopical e Rotulação com spaCy
 ### A simple NLP project for college / Um projeto simples de PLN para faculdade
 
 ## <span style="color: #737373">✱</span> Overview / Visão geral
 ### EN: this project aims to automatically segment a document into subtopics and assign meaningful labels to each segment based on semantic similarity between sentences. <br><br>  PT: Este projeto visa segmentar automaticamente um documento em subtópicos e atribuir rótulos significativos a cada segmento com base na similaridade semântica entre frases.
-
 
 ## <span style="color: #737373">✱</span> Key Features / Características principais
 #### * Document Segmentation – Divides text into coherent subtopics / Segmentação de Documento – Divide o texto em subtópicos coerentes
